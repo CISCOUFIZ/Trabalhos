@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Only fans</title>
+</head>
+<body>
+    <header>
+        <h1>Assinar Meu Conteudo$</h1>
+        <main>
+            <section class="subscription">
+                <h2>Receba Conteúdos Exclusivos Do nosso</h2>
+                <form action="/submit" method="post">
+                    <label for="email">Digite seu email:</label>
+                    <input type="email" id="email" name="email" required>
+                    <button type="submit">Assinar</button>
+
+        </main>
+    </header>
+</body>
+</html>
